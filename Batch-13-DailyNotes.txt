@@ -31,3 +31,20 @@ Daily Lunch Break 1PM - 2PM
 9. Create Outlook Email account.
 10. Create and connect Windows VM in Azure/AWS and create AZURE VM using Username & Password. [ Remember in tomorrow's class ]
 
+================================================
+YOUR STATUS EMAIL SHOULD BE LIKE BELOW :
+--------------------------------------------
+Sub : QTDEVOPS STATUS EMAIL [ Today's Date ]
+
+Hi Team,
+
+Task lists which you done 
+
+
+
+Thanks&Regards,
+Ram
+Email id 
+Batch-13
+
+=============================================================
