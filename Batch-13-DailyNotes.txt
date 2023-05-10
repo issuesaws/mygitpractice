@@ -1,0 +1,33 @@
+ssh -i /c/Users/tgram/Downloads/vmusinguserpasswd_key.pem azureuser@4.246.152.140
+
+
+Daily Lunch Break 1PM - 2PM
+
+=========================================
+
+1. AWS/AZURE Accounts creation.
+2. SSH Key/Pem key creation in Azure/AWS.
+3. VM/EC2 connection using Gitbash/MobaXterm.
+4. Security group creation and add required ports.
+5. Read documentation for the below given topics.
+ - OSI MOdel
+ - Diff b/w Application server, Web Application server and Database Server
+ -
+6. Install choclatey on Windows and install below softwares using choco.
+ - Mobaxterm
+ - Putty
+ - Notepadplusplus
+ - VSCode
+ - Gitbash
+ - Windows Terminal 
+ - 
+7. Go to directdevops.blog and download 
+ 
+ - Linux Refresher [ https://directdevops.blog/2023/02/15/linux-refresher/ ]
+ - Part-1   [ https://directdevops.blog/2023/02/18/become-efficient-at-linux-command-line-part-1/ ]
+ - Part-2 [ https://directdevops.blog/2023/02/23/become-efficient-with-linux-command-line-part-2/ ]
+
+8. Create Docker hub and Git Hub aaccount
+9. Create Outlook Email account.
+10. Create and connect Windows VM in Azure/AWS and create AZURE VM using Username & Password. [ Remember in tomorrow's class ]
+
